@@ -1,5 +1,5 @@
 # e-commerce-Gamer
 
-Sitio Web de e-commerce donde me toco desarrollar la parte del frontend con Html y Css.
+Desarrollo del frontend de e-commerce gamer con HTML y CSS.
 
 Visitar Sitio ----> https://tinchogithub.github.io/e-commerce-Gamer/
